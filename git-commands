@@ -1,0 +1,287 @@
+    1  ssh -i "new.pem" ubuntu@ec2-16-170-226-255.eu-north-1.compute.amazonaws.com
+    2  ssh -i "new.pem" ubuntu@ec2-16-170-226-255.eu-north-1.compute.amazonaws.com
+    3  ssh -i "new.pem" ubuntu@ec2-16-170-226-255.eu-north-1.compute.amazonaws.com
+    4  ssh -i "new.pem" ubuntu@ec2-16-170-226-255.eu-north-1.compute.amazonaws.com
+    5  ssh -i "new.pem" ubuntu@ec2-16-170-226-255.eu-north-1.compute.amazonaws.com
+    6  ssh -i "new.pem" ubuntu@ec2-16-170-226-255.eu-north-1.compute.amazonaws.com
+    7  ssh -i "new.pem" ubuntu@ec2-16-170-226-255.eu-north-1.compute.amazonaws.com
+    8  ssh -i "new.pem" ubuntu@ec2-16-170-226-255.eu-north-1.compute.amazonaws.com
+    9  ssh -i "new.pem" ubuntu@ec2-16-170-226-255.eu-north-1.compute.amazonaws.com
+   10  ssh -i "new.pem" ubuntu@ec2-16-170-226-255.eu-north-1.compute.amazonaws.com
+   11  ssh -i "new.pem" ubuntu@ec2-16-170-226-255.eu-north-1.compute.amazonaws.com
+   12  ssh -i "new.pem" ubuntu@ec2-16-170-226-255.eu-north-1.compute.amazonaws.com
+   13  ssh -i "new.pem" ubuntu@ec2-13-60-229-72.eu-north-1.compute.amazonaws.com
+   14  ssh -i "new.pem" ubuntu@ec2-13-60-229-72.eu-north-1.compute.amazonaws.com
+   15  ssh -i "new.pem" ubuntu@ec2-13-60-229-72.eu-north-1.compute.amazonaws.com
+   16  ssh -i "new.pem" ubuntu@ec2-13-60-229-72.eu-north-1.compute.amazonaws.com
+   17  ssh -i "new.pem" ubuntu@ec2-13-60-229-72.eu-north-1.compute.amazonaws.com
+   18  ssh -i "new.pem" ubuntu@ec2-13-60-229-72.eu-north-1.compute.amazonaws.com
+   19  ssh -i "new.pem" ubuntu@ec2-13-60-229-72.eu-north-1.compute.amazonaws.com
+   20  ssh -i "new.pem" ubuntu@ec2-13-60-229-72.eu-north-1.compute.amazonaws.com
+   21  ssh -i "new.pem" ubuntu@ec2-51-20-191-21.eu-north-1.compute.amazonaws.com
+   22  ssh -i "jenkins.pem" ubuntu@ec2-16-170-155-220.eu-north-1.compute.amazonaws.com
+   23  ssh -i "manojpem.pem" ubuntu@ec2-15-206-124-236.ap-south-1.compute.amazonaws.com
+   24  git clone https://github.com/Manojreddy135/devops-restart.git
+   25  touch java1 java2 java3 java4
+   26  git config "manojreddy135"
+   27  git config "Manojreddy135"
+   28  git config --global "Manojreddy135"
+   29  git config --global user.name "Manojreddy135"
+   30  git config --global user.email "yattapumanojreddy09"
+   31  git add .
+   32  touch java1 java2 java3 java4
+   33  git add .
+   34  git add *
+   35  git add java1
+   36  git add .*
+   37  git status
+   38  git clone https://github.com/Manojreddy135/devops-restart.git
+   39  git clone https://github.com/Manojreddy135/devops-restart.git
+   40  git clone https://github.com/Manojreddy135/devops-restart.git
+   41  git status
+   42  ls
+   43  cd devops-restart
+   44  touch java1 java2 java3 java4
+   45  git add .
+   46  git commit -m "sample java files"
+   47  git status
+   48  git push origin main
+   49  git status
+   50  git push origin main
+   51  ls
+   52  git push origin main
+   53  git exit
+   54  git clone https://github.com/Manojreddy135/devops-restart.git
+   55  ls
+   56  cd devops-restart
+   57  git init
+   58  git push origin main
+   59  git clone
+   60  git clone https://github.com/Manojreddy135/devops-demo.git
+   61  ls
+   62  touch java1 java2 java3 java4
+   63  git add .
+   64  cd devops-demo
+   65  git add .
+   66  git commit -m "sample files"
+   67  git status
+   68  touch java11 java12 java13
+   69  git add .
+   70  git status
+   71  git commit -m "sample files"
+   72  git status
+   73  git push devops-demo main
+   74  git push origin main
+   75  clear
+   76  git remote add https://github.com/Manojreddy135/devops-restart.git
+   77  ls
+   78  pwd
+   79  git remote add dd https://github.com/Manojreddy135/devops-restart.git 
+   80  git push dd master
+   81  git push dd main
+   82  git config --global user.name
+   83  git config --global user.email
+   84  git config --global user.email "yattapumanojreddy09@gmail.com"
+   85  git push dd main
+   86  mkdir
+   87  ls
+   88  cd ..
+   89  mkdir sampledevops
+   90  cd sampledevops/
+   91  git init
+   92  touch manoj1 mahesh1 anshu1 anhshka2
+   93  git add .
+   94  git commit -m "sample files for java"
+   95  git remote add sdm
+   96  git remote add sdm https://github.com/Manojreddy135/devops-demo.git
+   97  git push sdm master
+   98  pwd
+   99  cd desktop
+  100  cd desktop
+  101  ls
+  102  ls djjmanoj
+  103  pwd
+  104  ls
+  105  mkdir manoj
+  106  cd manoj
+  107  pwd
+  108  ls
+  109  git init
+  110  ls
+  111  cat .git
+  112  cd .git
+  113  cd ..
+  114  git config --global --list
+  115  touch git1 git2 git3 git4
+  116  git add .
+  117  git commit -m "sample git file"
+  118  git status
+  119  git remote add manojhttps://github.com/Manojreddy135/git-sample.git
+  120  git push manoj master
+  121  git remote add manoj https://github.com/Manojreddy135/git-sample.git
+  122  git push manoj master
+  123  ls
+  124  touch git5 git6 git7 git8
+  125  git add .
+  126  git commit -m "git sample files"
+  127  git status
+  128  cd ..
+  129  git clone https://github.com/Manojreddy135/git-sample.git
+  130  cd git-sample/
+  131  git branch feature1
+  132  git branch
+  133  git checkout feature1
+  134  ls
+  135  touch git1 git2 git3 git4
+  136  git add .
+  137  git commit -m "git sample files"
+  138  git status
+  139  git push origin feature1
+  140  git fetch https://github.com/Manojreddy135/git-sample.git
+  141  ls
+  142  git checkout main
+  143  ls
+  144  git pull
+  145  ls
+  146  git branch feature2
+  147  git branch
+  148  git checkout feature2
+  149  touch git11 git22 git33 git44
+  150  git add .
+  151  git commit -m "git sample files"
+  152  git psuh origin feature2
+  153  git push origin feature2
+  154  pwd
+  155  cd manoj
+  156  git init
+  157  cd .git
+  158  git config --global --list
+  159  git status
+  160  ls
+  161  git cd ..
+  162  cd ..
+  163  cd ..
+  164  ls
+  165  touch git11 git22 git33
+  166  git add.
+  167  git add .
+  168  cd .git
+  169  cd manoj
+  170  cd .git
+  171  cd ..
+  172  cd ..
+  173  git remote add manoj https://github.com/Manojreddy135/git-sample.git
+  174  cd manoj
+  175  git remote add manoj https://github.com/Manojreddy135/git-sample.git
+  176  touch git11 git22 git33
+  177  git add .
+  178  git commit -m "git samples"
+  179  git push manoj master
+  180  git checkout -b thala
+  181  git branch
+  182  git clone https://github.com/Manojreddy135/git-sample.git
+  183  git branch
+  184  cd ..
+  185  ls
+  186  cd git-sample/
+  187  git branch
+  188  git checkout -b thala
+  189  touch dhoni suresh-raina jadeja 
+  190  ls
+  191  git branch
+  192  git chechout -b tet
+  193  git checkout -b tett
+  194  git checkout thala
+  195  git branch -d test
+  196  git branch -d tett
+  197  ls
+  198  cat > dhoni 
+  199  cat dhoni
+  200  vi dhoni
+  201  rm jadeja
+  202  rm suresh-raina
+  203  ls
+  204  vi dhoni 
+  205  cp dhoni csk1
+  206  dhoni cks2
+  207  cp dhoni cks2
+  208  cp dhoni cks3
+  209  git status
+  210  add .
+  211  git status
+  212  git add .
+  213  git add *
+  214  git commit -m "dhoni fill will be added" dhoni
+  215  git commit -m "csk1 fill will be added" csk1
+  216  git commit -m "csk2 fill will be added" csk2
+  217  git commit -m "csk2 fill will be added" csk2
+  218  git commit -m "csk2 fill will be added" csk2
+  219  mv cks2 csk2
+  220  mv cks3 csk3
+  221  git commit -m "csk2 fill will be added" csk2
+  222  ls
+  223  git commit -m "csk2 fills will be addes" csk2
+  224  git status
+  225  git add *
+  226  git add *
+  227  git commit -m "csk2 fill will be added" csk2
+  228  git commit -m "csk3 fill will be added" csk3
+  229  git status
+  230  git status
+  231  git add *
+  232  git status
+  233* git commit -m "csk2 fill will be added" cks2
+  234  git commit -m "csk3 fill will be added" csk3
+  235  git status
+  236  git add cks2
+  237  git add cks3
+  238  git status
+  239  git push origin thala
+  240  git fetch https://github.com/Manojreddy135/git-sample.git
+  241  ls
+  242  git checkout main
+  243  ls
+  244  git pull https://github.com/Manojreddy135/git-sample.git
+  245  ls
+  246  git log --oneline
+  247  git branch
+  248  git merge feature1 feature2 thala
+  249  cp dhoni csk4
+  250  git add .
+  251  git commit -m "csk4 file will be added" csk4
+  252  git log --oneline
+  253  git checkout -b test
+  254  cp dhoni abc.txt
+  255  cp dhoni jan.txt
+  256  cp dhoni feb.txt
+  257  git status
+  258  git add .
+  259  git checkout main
+  260  git chechout test
+  261  git checkout test
+  262  git stash
+  263  git status
+  264   git stash pop
+  265  ls -lt
+  266  git commit -m "adding new txt files" 
+  267  git log --oneline
+  268  git checkout ,aim
+  269  git checkout main
+  270  git push origin main
+  271  git cheery-pick bc79f5d
+  272  git cherry-pick bc79f5d
+  273  git checkout test
+  274  cp dhoni yak.txt
+  275  add .
+  276  git add .
+  277  git commit -m "new file"
+  278  git checkout main
+  279  git log --oneline
+  280  git checkout test
+  281  git log --oneline
+  282  git checkout main
+  283  git cherry-pick 8b9c094
+  284  git status
+  285  git log --oneline
+  286  history
+  287  history > git-commands
